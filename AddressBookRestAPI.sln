@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBookRestAPI", "AddressBookRestAPI\AddressBookRestAPI.csproj", "{DC75C302-77BD-46B0-AD48-D92C217B0F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJsonServer", "TestJsonServer\TestJsonServer.csproj", "{0A12AF8F-82E1-4433-873E-9BCAD3E3B584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC75C302-77BD-46B0-AD48-D92C217B0F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC75C302-77BD-46B0-AD48-D92C217B0F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC75C302-77BD-46B0-AD48-D92C217B0F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC75C302-77BD-46B0-AD48-D92C217B0F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A12AF8F-82E1-4433-873E-9BCAD3E3B584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A12AF8F-82E1-4433-873E-9BCAD3E3B584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A12AF8F-82E1-4433-873E-9BCAD3E3B584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A12AF8F-82E1-4433-873E-9BCAD3E3B584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19BC1C6B-13DC-495C-9DEE-8DE47411E224}
+	EndGlobalSection
+EndGlobal
