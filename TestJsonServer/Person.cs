@@ -14,5 +14,7 @@ namespace TestJsonServer
         public string State { get; set; }
         public string ZipCode { get; set; }
         public string EmailId { get; set; }
+
+        public int id { get; set; }
     }
 }
